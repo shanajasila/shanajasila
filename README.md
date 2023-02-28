@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me : **hariprasad.m68@gmail.com**
+- 📫 How to reach me : **shanajasilam@gmail.com**
 
-- ⚡ Fun fact **I play games and practice martial arts.**
+- ⚡ Fun fact **Iam into Macro Photography and Scribble Art.**
 
 ---
 

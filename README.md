@@ -71,18 +71,15 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/intl/en_in/)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)](https://tails.boum.org/)
 
 ---
 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/hariprasad-ms/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasad-ms&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/shanajasila/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shanajasila&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -91,20 +88,11 @@
 ## 📊 My Github Status :
 
   <br/>
-    <a href="https://github.com/hariprasad-ms/github-readme-stats"><img alt="Hari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hariprasad-ms&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hariprasad-ms/github-readme-stats"><img alt="Hari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad-ms&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/shanajasila/github-readme-stats"><img alt="Shana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shanajasila&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shanajasila/github-readme-stats"><img alt="Hari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanajasila&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
----
-
-<br/>
-<br/>
-
-<a href="https://github.com/hariprasad-ms/github-readme-activity-graph"><img alt="Hari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hariprasad-ms&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ---
 

@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **[Project Destiny A.A.I](https://github.com/Our-Destiny)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 👯 I’m Software Engineer Trainee at **[Nest Digital](https://www.nestdigital.com/)** 
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **Java Core Spring Boot**
 
 - 📫 How to reach me : **shanajasilam@gmail.com**
 
-- ⚡ Fun fact **Iam into Macro Photography and Scribble Art.**
+- ⚡ Fun fact : **Iam into Macro Photography and Scribble Art.**
 
 ---
 
